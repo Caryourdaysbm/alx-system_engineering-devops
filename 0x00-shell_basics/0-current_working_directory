@@ -1,2 +1,3 @@
 #!/bin/bash
+this is a script that print absolute path of current working directory
 pwd
